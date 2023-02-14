@@ -25,7 +25,7 @@ You can reach me at my Discord username: `Caglar#3780` or simply drop me a messa
 
 #### Web Development
 
-<img src="https://img.shields.io/badge/-HTML5-000?logo=HTML5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-000?logo=CSS3&logoColor=1572B6" alt="CSS3" /> <img src="https://img.shields.io/badge/-Sass-000?logo=Sass&logoColor=CC6699" alt="Sass" /> <img src="https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/-React-000?logo=React&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000?logo=Next.js&logoColor=FFF" alt="Next.js" /> <img src="https://img.shields.io/badge/-Prisma-FFF?logo=Prisma&logoColor=2D3748" alt="Prisma" />
+<img src="https://img.shields.io/badge/-HTML5-000?logo=HTML5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-000?logo=CSS3&logoColor=1572B6" alt="CSS3" /> <img src="https://img.shields.io/badge/-Sass-000?logo=Sass&logoColor=CC6699" alt="Sass" /> <img src="https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/-React-000?logo=React&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000?logo=Next.js&logoColor=FFF" alt="Next.js" />
 
 #### Linters
 
@@ -33,7 +33,7 @@ You can reach me at my Discord username: `Caglar#3780` or simply drop me a messa
 
 #### Tooling
 
-<img src="https://img.shields.io/badge/-.ENV-000?logo=.ENV&logoColor=ECD53F" alt=".ENV" /> <img src="https://img.shields.io/badge/-JSON-000?logo=JSON&logoColor=FFF" alt="JSON" /> <img src="https://img.shields.io/badge/-Webpack-000?logo=Webpack&logoColor=8DD6F9" alt="Webpack" /> <img src="https://img.shields.io/badge/-Prettier-000?logo=Prettier&logoColor=F7B93E" alt="Prettier" />
+<img src="https://img.shields.io/badge/-.ENV-000?logo=.ENV&logoColor=ECD53F" alt=".ENV" /> <img src="https://img.shields.io/badge/-JSON-000?logo=JSON&logoColor=FFF" alt="JSON" /> <img src="https://img.shields.io/badge/-Webpack-000?logo=Webpack&logoColor=8DD6F9" alt="Webpack" /> <img src="https://img.shields.io/badge/-Prettier-000?logo=Prettier&logoColor=F7B93E" alt="Prettier" /> <img src="https://img.shields.io/badge/-Prisma-FFF?logo=Prisma&logoColor=2D3748" alt="Prisma" />
 
 #### Web Frameworks / Libraries
 
