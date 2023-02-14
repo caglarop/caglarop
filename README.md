@@ -17,7 +17,7 @@ My love for coding started with developing mods and plugins for games such as Co
 
 You can reach me at my Discord username: `Caglar#3780` or simply drop me a message and I'll get back to you as soon as I can!
 
-## Knowledges
+## Knowledge
 
 #### Runtime Environments
 
@@ -91,7 +91,7 @@ You can reach me at my Discord username: `Caglar#3780` or simply drop me a messa
 
 <img src="https://img.shields.io/badge/-.NET-FFF?logo=.NET&logoColor=512BD4" alt=".NET" /> <img src="https://img.shields.io/badge/-C%20Sharp-000?logo=C%20Sharp&logoColor=239120" alt="C Sharp" />
 
-#### OS
+#### Operating Systems
 
 <img src="https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu&logoColor=E95420" alt="Ubuntu" /> <img src="https://img.shields.io/badge/-Debian-000?logo=Debian&logoColor=A81D33" alt="Debian" /> <img src="https://img.shields.io/badge/-CentOS-FFF?logo=CentOS&logoColor=262577" alt="CentOS" />
 
