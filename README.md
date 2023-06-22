@@ -15,7 +15,7 @@ My love for coding started with developing mods and plugins for games such as Co
 
 ## 📞 How to Contact Me
 
-You can reach me at my Discord username: `Caglar#3780` or simply drop me a message and I'll get back to you as soon as I can!
+You can reach me at my Discord username: `CaglarOP` or simply drop me a message and I'll get back to you as soon as I can!
 
 ## Knowledge
 
