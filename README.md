@@ -1,10 +1,8 @@
-# 💻 Who am I?
+# 👋 Greetings! I'm Candan
 
-I'm a full stack developer with over 10 years of experience, who has mastered the art of creating unique and efficient solutions. With a strong focus on TypeScript and Next.js, I've built web applications that stand out from the crowd.
+Welcome to my GitHub profile.
 
-## 🎮 Gaming Experience
-
-My love for coding started with developing mods and plugins for games such as Counter Strike, Minecraft, GTA San Andreas and GTA 5.
+I'm a dedicated and skilled full stack developer with a passion for crafting exceptional web applications.
 
 # 🚀 Experience
 
@@ -15,7 +13,7 @@ My love for coding started with developing mods and plugins for games such as Co
 
 ## 📞 How to Contact Me
 
-You can reach me at my Discord username: `CaglarOP` or simply drop me a message and I'll get back to you as soon as I can!
+You can reach out to me through LinkedIn by visiting my profile at <a href="https://www.linkedin.com/in/candan-tombas-488766270/">LinkedIn Profile</a>. Feel free to connect with me and send a message, and I will get back to you as soon as possible.
 
 ## Knowledge
 
