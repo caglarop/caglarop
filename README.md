@@ -10,6 +10,7 @@ I'm a dedicated and skilled full stack developer with a passion for crafting exc
 - 🔨 Proficient in TypeScript, Next.js, and various other technologies (C#, Java, PHP, JS)
 - 🎨 UI/UX, Refactoring, and Figma design implementation expertise
 - 🚀 API development and web application creation
+- 🔎 Experience with search engine optimization and PageSpeed
 
 ## 📞 How to Contact Me
 
