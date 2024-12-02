@@ -4,23 +4,25 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/caglarop/caglarop/output/github-snake.svg" />
 </picture>
 
-# 👋 Greetings! I'm Candan
+# 👋 Hey, I'm Candan!
 
-Welcome to my GitHub profile.
+Welcome to my GitHub profile!
 
-I'm a dedicated and skilled full stack developer with a passion for crafting exceptional web applications.
+I’m a **full-stack developer** with a passion for building **high-performance, scalable web applications** using the latest technologies and frameworks. My focus lies on creating seamless, modern user experiences with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. But I’m not just about the frontend—I’m equally comfortable with backend technologies, and I have a deep understanding of **APIs**, **databases**, and **server-side technologies**.
 
-# 🚀 Experience
+While I specialize in **modern web development**, my curiosity knows no bounds. From **blockchain** to **game development**, I’m always exploring new technologies and tools that push the boundaries of what's possible.
 
-- 💻 10+ years of experience in web development
-- 🔨 Proficient in TypeScript, Next.js, and various other technologies (C#, Java, PHP, JS)
-- 🎨 UI/UX, Refactoring, and Figma design implementation expertise
-- 🚀 API development and web application creation
-- 🔎 Experience with search engine optimization and PageSpeed
+# 🚀 What I Do
 
-## 📞 How to Contact Me
+- **Frontend Development**: Expert in building stunning, responsive UIs with **React**, **Next.js**, and **Tailwind CSS**.
+- **Backend Development**: Extensive experience with **Node.js**, **.NET**, **PHP**, and **Java**, focusing on crafting robust APIs and integrating various services.
+- **Full-Stack Expertise**: I seamlessly integrate both frontend and backend, building scalable and maintainable full-stack applications.
+- **Optimizing Performance**: Passionate about writing clean, optimized code for fast loading speeds and top-notch **SEO** performance.
+- **Cross-Platform Development**: Familiar with **mobile-first** strategies and **progressive web apps (PWAs)**.
 
-You can reach out to me through LinkedIn by visiting my profile at <a href="https://www.linkedin.com/in/candan-tombas-488766270/">LinkedIn Profile</a>. Feel free to connect with me and send a message, and I will get back to you as soon as possible.
+## 🌍 Let’s Connect!
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/candan-tombas-488766270/) or through GitHub discussions. I'm always open to exciting collaborations, learning opportunities, and innovative ideas!
 
 ## Knowledge
 
